@@ -1,2 +1,4 @@
 # hello-world
-The very first repository 
+Hello!
+It's Harikesh from India.
+I love reading, watching movies and, of course, coding!
